@@ -1,5 +1,5 @@
 ```
-    
+
     
                                                           █████
                                                          ░░███ 
@@ -22,8 +22,11 @@
       Looking for collaboration on any data-related projects.
       Get in touch through bojandrango|at|gmail|dot|com.
 
+      # Also, check my other GitHub profile - @drangovski
+
     + ------------------------------------------------------- +
-    
+
+      
 
 
 ```
